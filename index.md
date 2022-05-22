@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ATOM's Blog!!
 
 You can use the [editor on GitHub](https://github.com/shubhamkhuteta/react-ssr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
